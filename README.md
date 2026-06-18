@@ -1,7 +1,7 @@
 # Copilot Studio – Admin Notes
 
 ## 📌 Contents
-- [Admin Guide](./admin-guide.md)
+- [Admin Guide](Administration%20Guide.md)
 - [License & Credit Usage FAQ](./faq.md)
 
 ---

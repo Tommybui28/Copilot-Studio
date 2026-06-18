@@ -2,7 +2,7 @@
 
 ## 📌 Contents
 - [Admin Guide](Administration%20Guide.md)
-- [License & Credit Usage FAQ](./faq.md)
+- [License & Credit Usage FAQ](License%20and%20Credit%20FAQ)
 
 ---
 

@@ -13,4 +13,6 @@
 - [ ] Test: Can Environment Makers share to:
   - Individuals ✅
   - Security groups ✅
-  - Org-wide ❌ (requires admin → `prvAssignRole`)
+  - Org-wide ❌ (requires admin → `prvAssignRole`
+- [ ] Credit usage on bots
+- [ ] Credit to Money conversion

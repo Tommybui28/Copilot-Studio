@@ -1,4 +1,4 @@
-# Copilot Studio Governance Summary
+# FAQ
 
 ## Copilot Capability Comparison
 

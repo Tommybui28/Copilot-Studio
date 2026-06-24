@@ -182,3 +182,20 @@ Source: [Microsoft Learn – Billing rates](https://learn.microsoft.com/en-us/mi
 | **Publish agents that consume credits beyond the M365 Copilot included usage** | ⚠️ Requires tenant to have a credit source (PAYG / pack / P3) | ✅ Yes |
 | **Use premium connectors, custom connectors, Dataverse storage** | ⚠️ Needs Power Platform premium / Dataverse capacity | ✅ Yes (depending on licence tier) |
 | **Publish to external channels** (web, WhatsApp, etc.) | ❌ Not included | ✅ Yes |
+
+## Copilot Studio vs Copilot Cowork — Side-by-Side
+
+| Dimension | **Copilot Studio** | **Copilot Cowork** |
+|---|---|---|
+| **What it is** | Low-code platform to **build** custom agents | Agentic AI **inside M365 Copilot** that completes multi-step work for you |
+| **Who uses it** | Makers / developers build it; end users consume it | Individual end users (information workers) |
+| **Skill needed** | Low-code, but still technical (topics, knowledge sources, flows) | Natural language only — no build phase |
+| **Output** | A **reusable agent** shared across a team or org | A **one-off task result** for the person who prompted it |
+| **Best for** | "We need a *thing* that everyone in Comms can ask the handbook" | "I need to prep for my customer meeting / draft my weekly update" |
+| **Persistence** | Agent lives on, gets reused, governed centrally | Task runs, returns result, done |
+| **Knowledge** | Curated sources you point it at (SharePoint, Dataverse, APIs) | Whatever the user has access to across M365 (mail, files, calendar, Teams) |
+| **Actions** | Can call APIs, run flows, update systems autonomously | Mostly read/synthesise/draft within M365 |
+| **Governance** | Heavy — environments, DLP, publishing approvals, AI Eng review | Lighter — per-user caps, M365 admin policies |
+| **Pricing model** | **Per credit, per feature event** (generative answer = 2, action = 5, etc.) | **Per credit, per task** (Light 70–200, Medium 400–600, Heavy >1,500) |
+| **B2E (free for M365 Copilot users)?** | ✅ Yes for interactive use | ✅ Included for M365 Copilot licensed users (with per-user task limits) |
+| **Examples in your org** | Comms handbook bot, IT helpdesk bot, Finance policy bot | "Prep me for the Toca review meeting", "Summarise this week's MsgBroker tickets" |

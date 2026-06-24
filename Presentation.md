@@ -1,4 +1,4 @@
-# Agents, Copilot Studio & Cowork – Briefing for Head of Technology
+# Agents, Copilot Studio & Cowork
 
 ## 1. What is an "Agent"?
 An agent is an AI assistant built for a **specific job** with its own knowledge, instructions, and (optionally) actions it can take on your behalf.
